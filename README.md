@@ -49,7 +49,7 @@
 3. **Инжект DLL в Among Us**
    - Можно использовать любой DLL-инжектор (Extreme Injector, Process Hacker, Cheat Engine и т.д.)
    - Запустите игру
-   - Инжектируйте `BebraHack.dll` в процесс `Among Us`
+   - Инжектируйте `AmnongUsHack.dll` в процесс `Among Us`
 
 ---
 
