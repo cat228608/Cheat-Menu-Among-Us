@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  1 of 49 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  AmnongUsHack.vcxproj -> C:\Users\bebra\source\repos\AmnongUsHack\Release\AmnongUsHack.dll
